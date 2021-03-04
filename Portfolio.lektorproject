@@ -1,0 +1,13 @@
+[project]
+name = Portfolio
+url_style = absolute
+
+
+[servers.ghpages]
+name = Prod
+target = ghpages+https://surkovaes:dc0409328af1d22d1eb97d45dc957da9cbb130d6@surkovaes/surkovaes.github.io
+
+
+[servers.ghdeploy]
+name = Dev
+target = ghpages+https://surkovaes:dc0409328af1d22d1eb97d45dc957da9cbb130d6@surkovaes/surkovaes.github.io

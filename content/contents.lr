@@ -1,0 +1,8 @@
+title: Портфолио Елизаветы Сурковой
+---
+body:
+
+This is a demo website that shows how to use Lektor for a basic
+website with some pages and a blog.
+---
+_template: layout.html
